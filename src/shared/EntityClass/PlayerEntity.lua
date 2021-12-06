@@ -26,5 +26,4 @@ function PlayerEntity:StartPlayerMovementInput()
     self.player.DevComputerMovementMode = Enum.DevComputerMovementMode.UserChoice
 end
 
-
 return PlayerEntity
