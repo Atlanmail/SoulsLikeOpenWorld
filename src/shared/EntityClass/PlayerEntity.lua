@@ -18,4 +18,13 @@ function PlayerEntity:GetPlayer()
     return self.player
 end
 
+function PlayerEntity:StopPlayerMovementInput()
+    self.player.DevComputerMovementMode = Enum.DevComputerMovementMode.Scriptable
+end
+
+function PlayerEntity:StartPlayerMovementInput()
+    self.player.DevComputerMovementMode = Enum.DevComputerMovementMode.UserChoice
+end
+
+
 return PlayerEntity

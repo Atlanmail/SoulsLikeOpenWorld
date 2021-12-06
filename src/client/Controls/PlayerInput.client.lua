@@ -17,7 +17,6 @@ local CONTROL_KEYS = {
     Enum.UserInputType.MouseButton1,
     Enum.UserInputType.MouseButton2,
     Enum.UserInputType.MouseButton3
-
 }
 
 local function onControlkeyChanged(actionName, inputState, inputObject)

@@ -1,13 +1,23 @@
+--[[ Creates a new entity for the character every time it is loaded and deletes the old ones 
+when the character is removed]]
+
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")
 local Players = game:GetService("Players")
 
 local PlayerEntityData = require(ServerStorage.Common.Data.PlayerEntityData)
 local Entity = require(ReplicatedStorage.Common.EntityClass.Entity)
+local PlayerEntity = require(ReplicatedStorage.Common.EntityClass.PlayerEntity)
+
+local MovementActionsPath = ReplicatedStorage.Common.Actions.MovementActions
+
+
 
 local function onCharacterAdded(character)
-    local entity = Entity.new(character)
-    PlayerEntityData:AddPlayer(Players:GetPlayerFromCharacter(character), entity)
+    local player = Players:GetPlayerFromCharacter(character)
+    local entity = PlayerEntity.new(player)
+    entity:LoadActions(MovementActionsPath)
+    PlayerEntityData:AddPlayer(player, entity)
 end
 
 local function onCharacterRemoving(character)
