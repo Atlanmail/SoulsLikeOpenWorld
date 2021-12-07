@@ -62,6 +62,10 @@ function Entity:GetAnimator()
     return self.animator
 end
 
+function Entity:GetModel()
+    return self.model
+end
+
 function Entity:GetHumanoidRootPart()
     return self.humanoidRootPart
 end

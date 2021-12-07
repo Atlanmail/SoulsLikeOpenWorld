@@ -74,27 +74,27 @@
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame">
-					<X>4.49622059</X>
-					<Y>16.2197285</Y>
-					<Z>9.91414547</Z>
-					<R00>0.998807192</R00>
-					<R01>0.0409665294</R01>
-					<R02>-0.0265693702</R02>
-					<R10>-1.86264515e-09</R10>
-					<R11>0.544140518</R11>
-					<R12>0.838994145</R12>
-					<R20>0.0488281474</R20>
-					<R21>-0.837993383</R21>
-					<R22>0.543491423</R22>
+					<X>23.0754395</X>
+					<Y>6.54939413</Y>
+					<Z>-7.12344122</Z>
+					<R00>0.104507454</R00>
+					<R01>-0.000588988769</R01>
+					<R02>0.994524002</R02>
+					<R10>-0</R10>
+					<R11>0.99999994</R11>
+					<R12>0.00059223175</R12>
+					<R20>-0.994524121</R20>
+					<R21>-6.18926351e-05</R21>
+					<R22>0.104507446</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
 				<float name="FieldOfView">70</float>
 				<token name="FieldOfViewMode">0</token>
 				<CoordinateFrame name="Focus">
-					<X>4.54935932</X>
-					<Y>14.5417404</Y>
-					<Z>8.82716274</Z>
+					<X>21.0863914</X>
+					<Y>6.54820967</Y>
+					<Z>-7.33245611</Z>
 					<R00>1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
@@ -4861,7 +4861,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002a76e5</UniqueId>
 					<OptionalCoordinateFrame name="WorldPivotData"></OptionalCoordinateFrame>
 				</Properties>
-				<Item class="KeyframeSequence" referent="RBX4ADFE38C844147B59F15FAA3EE83CCCB">
+				<Item class="KeyframeSequence" referent="RBXA173658CDC034805B73F351EA6273545">
 					<Properties>
 						<BinaryString name="AttributesSerialize"></BinaryString>
 						<float name="AuthoredHipHeight">2</float>
@@ -4869,19 +4869,19 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 						<string name="Name">Automatic Save</string>
 						<token name="Priority">1000</token>
 						<int64 name="SourceAssetId">-1</int64>
-						<BinaryString name="Tags">MTYzODc0MDkyMQ==</BinaryString>
-						<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa044</UniqueId>
+						<BinaryString name="Tags">MTYzODg1NDk1OA==</BinaryString>
+						<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017127d</UniqueId>
 					</Properties>
-					<Item class="Keyframe" referent="RBX520D7C4FAEBD48DC811EC8E03C95B167">
+					<Item class="Keyframe" referent="RBX979AD92B552A4A28B6A1553D70FC5230">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa045</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017127e</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX40B0CDCA60144A18B72C814328E64C11">
+						<Item class="Pose" referent="RBXEA88654A8F9E40FBA784DD79CE3F6AD6">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -4903,10 +4903,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa046</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017127f</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX53E9581325A347B79223C93363149471">
+							<Item class="Pose" referent="RBXCD9FDB53E03D4C6A89656AF29998D72A">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -4928,22 +4928,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa047</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171280</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX6FA8B899BF964856B814F9266E04F745">
+					<Item class="Keyframe" referent="RBX25A606BD58F341598BEDA564821700CD">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.0416666679</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa048</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171281</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX3BC930106F964DE19BA47D2B2616B9ED">
+						<Item class="Pose" referent="RBX7AF8177C955E42C4946CB742F5FD3FA2">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -4965,10 +4965,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa049</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171282</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX3C7271AA24B5479EB90E3346B9F2890E">
+							<Item class="Pose" referent="RBX0252D610214B48F9AB6ECCAC19F96CD5">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -4990,22 +4990,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04a</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171283</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXAA3E2351550D4FD5AC98712EC409C7B5">
+					<Item class="Keyframe" referent="RBX5A6DD9CC6591430EAD295B5C9A645565">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.0833333358</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04b</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171284</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX7F59EA1493E047209CAC94F567C90FD2">
+						<Item class="Pose" referent="RBX20EDF15DB1D341B3B7C2527A7EA3CA0F">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5027,10 +5027,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04c</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171285</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX873916AD9A7A4BFCB304FC46EB8688EC">
+							<Item class="Pose" referent="RBX8634AFD9920746C2A5EB4D5B4E1997FA">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5052,22 +5052,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04d</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171286</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX2A2C7757F27243488F788652BBD4D85B">
+					<Item class="Keyframe" referent="RBX17EE73258A61491A80BC0CA950538C68">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.125</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04e</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171287</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX45CC38632AD44FF1AD751E01931B3582">
+						<Item class="Pose" referent="RBX64F4D709BA26403DAA89223B3D3B5CF6">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5089,10 +5089,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa04f</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171288</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBXDE9584D9FFA846DBA2BFFB18872A410C">
+							<Item class="Pose" referent="RBXB47DE0013F9E476799E4E4E647D4AFF9">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5114,22 +5114,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa050</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171289</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX959D049A79C2444B8989C7CDBF657FA9">
+					<Item class="Keyframe" referent="RBX2782B5E02256417B90619EFE91B8B385">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.166666672</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa051</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128a</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX8E863819C31C4D5A87E20DE15AC64941">
+						<Item class="Pose" referent="RBX5F5C94D6B44E4526A593BD2513DA84B2">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5151,10 +5151,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa052</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128b</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX0A4AA6EEE5E84615906E54CB60E87963">
+							<Item class="Pose" referent="RBX32E1A9FC23E84A48A2E4B25215AAB800">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5176,22 +5176,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa053</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128c</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXA074245497944BE88C6390481F0465B6">
+					<Item class="Keyframe" referent="RBX05B2EB94DE81444583C688BDF675ECFF">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.208333328</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa054</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128d</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBXD1D4EBF8457F4656B5A5E6FC180C8F0F">
+						<Item class="Pose" referent="RBXE5F7723CD6BE4D67AF9E55DA685F6920">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5213,47 +5213,47 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa055</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128e</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX355250294EC240D2B3E1E93DF2328A37">
+							<Item class="Pose" referent="RBXB5AB51578525440B99041EA9F3525999">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
 										<X>0</X>
-										<Y>0</Y>
+										<Y>1</Y>
 										<Z>0</Z>
-										<R00>1</R00>
+										<R00>0.99999994</R00>
 										<R01>0</R01>
 										<R02>0</R02>
 										<R10>0</R10>
-										<R11>-0.866025686</R11>
-										<R12>0.499999613</R12>
+										<R11>-0.866025746</R11>
+										<R12>0.499999434</R12>
 										<R20>0</R20>
-										<R21>-0.499999613</R21>
-										<R22>-0.866025686</R22>
+										<R21>-0.499999434</R21>
+										<R22>-0.866025746</R22>
 									</CoordinateFrame>
 									<token name="EasingDirection">0</token>
 									<token name="EasingStyle">0</token>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa056</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017128f</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX6ABB6901FB2345A2802798BA8AD7340B">
+					<Item class="Keyframe" referent="RBX91A53DBB6C9F4935A3037EF48CABFBB8">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.25</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa057</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171290</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBXD9BB977266E544229EB4185C25B32547">
+						<Item class="Pose" referent="RBXF5F9D29D418247C2A525B2F47BED720D">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5275,24 +5275,24 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa058</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171291</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX4DCDF66E387B4DD8B0A9C6D30FDE3DED">
+							<Item class="Pose" referent="RBX6956ECA514824BC28B478A12EF5E341A">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
 										<X>0</X>
-										<Y>0</Y>
+										<Y>1.20000005</Y>
 										<Z>0</Z>
-										<R00>0.99999994</R00>
+										<R00>1</R00>
 										<R01>0</R01>
 										<R02>0</R02>
 										<R10>0</R10>
 										<R11>-1</R11>
-										<R12>-8.34465027e-07</R12>
+										<R12>8.74227766e-08</R12>
 										<R20>0</R20>
-										<R21>8.34465027e-07</R21>
+										<R21>-8.74227766e-08</R21>
 										<R22>-1</R22>
 									</CoordinateFrame>
 									<token name="EasingDirection">0</token>
@@ -5300,22 +5300,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa059</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171292</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX514569D35DDF47E1B00520FAF57F25BA">
+					<Item class="Keyframe" referent="RBXD6BBA45972BE42688313CC100D09EE0A">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.291666657</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05a</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171293</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX5920476E99204B09863AFE8B5F165BC5">
+						<Item class="Pose" referent="RBX41DEEA0E696C49848B94A29166B2C6F3">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5337,47 +5337,47 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05b</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171294</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBXD59269F5D74E41E28442E5DD0628E7DA">
+							<Item class="Pose" referent="RBX4F4D25A9C2E743B0A7C32BF45C872769">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
 										<X>0</X>
-										<Y>0</Y>
+										<Y>1.20000005</Y>
 										<Z>0</Z>
 										<R00>1</R00>
 										<R01>0</R01>
 										<R02>0</R02>
 										<R10>0</R10>
-										<R11>-0.866025448</R11>
-										<R12>-0.499999911</R12>
+										<R11>-0.866025388</R11>
+										<R12>-0.50000006</R12>
 										<R20>0</R20>
-										<R21>0.499999911</R21>
-										<R22>-0.866025448</R22>
+										<R21>0.50000006</R21>
+										<R22>-0.866025388</R22>
 									</CoordinateFrame>
 									<token name="EasingDirection">0</token>
 									<token name="EasingStyle">0</token>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05c</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171295</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXC603F24AB2944DECBACE6EDF487CCD9E">
+					<Item class="Keyframe" referent="RBXECFE4AC449C44AE6A16BDCCDF4AAB5EC">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.333333343</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05d</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171296</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX5FA5022B97344EBBBAE6A9441554595F">
+						<Item class="Pose" referent="RBX0B1F98AA1AAC41D5995C5351DA085C65">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5399,10 +5399,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05e</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171297</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX1BB744E616F840BD9BBFA5A0B03C832D">
+							<Item class="Pose" referent="RBXB6F58EB19D2F4D04871322B2F38E683E">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5424,22 +5424,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa05f</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171298</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBX615C17F0697D46E1BC6673E952AF42AB">
+					<Item class="Keyframe" referent="RBX786528B0945F4ADEA469D596D3BC4018">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.375</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa060</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e00171299</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX3C246D430C414075BDC46BEE5DEF1F41">
+						<Item class="Pose" referent="RBX75AB43375F594324B2A4A997179A91AB">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5461,10 +5461,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa061</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129a</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX8F068238A1724A84B162A2A0A90CA30A">
+							<Item class="Pose" referent="RBXEEF67C3D0706493ABE19032DB19620CE">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5486,22 +5486,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa062</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129b</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXEDC88B3ADAA54D31BF357E5E253A5720">
+					<Item class="Keyframe" referent="RBXCB7D8972C02C4CCBB588605D081EE0A1">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.416666657</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa063</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129c</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBXB2124954F38F47589328AFF8BBD91F9F">
+						<Item class="Pose" referent="RBX5AB01C71679A482B97CAD2F4483A3D73">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5523,10 +5523,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa064</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129d</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBXEEDEA13CBAC54E69AAB3EAEBC7B4789E">
+							<Item class="Pose" referent="RBX8797522BCC954B49867FA1B2B367812F">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5548,22 +5548,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa065</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129e</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXF8790E1F25C848078D2873AA2CE33E7B">
+					<Item class="Keyframe" referent="RBX251DDBB9D33D407CA1275996753707CC">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.458333343</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa066</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e0017129f</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX10FD5ECB74524EE380BBF0D491ADD024">
+						<Item class="Pose" referent="RBX85AC09DB72B04487A99B554674EFC6A1">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5585,10 +5585,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa067</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e001712a0</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBXFADBF43C25744CE5B9A725983E0E2724">
+							<Item class="Pose" referent="RBXD2551D2D24554F07AE8278631C818E76">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5610,22 +5610,22 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa068</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e001712a1</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
 						</Item>
 					</Item>
-					<Item class="Keyframe" referent="RBXAE19CCF305DD4765A3D7F170C671EED9">
+					<Item class="Keyframe" referent="RBXDA6BAE1F4A8E405CB69153FE93EAC3A2">
 						<Properties>
 							<BinaryString name="AttributesSerialize"></BinaryString>
 							<string name="Name">Keyframe</string>
 							<int64 name="SourceAssetId">-1</int64>
 							<BinaryString name="Tags"></BinaryString>
 							<float name="Time">0.5</float>
-							<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa069</UniqueId>
+							<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e001712a2</UniqueId>
 						</Properties>
-						<Item class="Pose" referent="RBX70F59FB4E34F43AC8CD60E888F0ABD04">
+						<Item class="Pose" referent="RBX905246B4356C49E5A6127215C47E8573">
 							<Properties>
 								<BinaryString name="AttributesSerialize"></BinaryString>
 								<CoordinateFrame name="CFrame">
@@ -5647,10 +5647,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 								<string name="Name">HumanoidRootPart</string>
 								<int64 name="SourceAssetId">-1</int64>
 								<BinaryString name="Tags"></BinaryString>
-								<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa06a</UniqueId>
+								<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e001712a3</UniqueId>
 								<float name="Weight">0</float>
 							</Properties>
-							<Item class="Pose" referent="RBX9DE4DFEF7CFD4DFFAAF78743D77B12DD">
+							<Item class="Pose" referent="RBX604813DD2DE84A59A611C2CC25615600">
 								<Properties>
 									<BinaryString name="AttributesSerialize"></BinaryString>
 									<CoordinateFrame name="CFrame">
@@ -5672,7 +5672,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 									<string name="Name">LowerTorso</string>
 									<int64 name="SourceAssetId">-1</int64>
 									<BinaryString name="Tags"></BinaryString>
-									<UniqueId name="UniqueId">57fe71edb339c0e801be91b8002aa06b</UniqueId>
+									<UniqueId name="UniqueId">6d55aa8ec47bcb3f01c0802e001712a4</UniqueId>
 									<float name="Weight">1</float>
 								</Properties>
 							</Item>
@@ -6029,6 +6029,1633 @@ ContextActionService:BindAction("onControlkeyChanged", onControlkeyChanged, fals
 				<BinaryString name="Tags"></BinaryString>
 				<UniqueId name="UniqueId">57fe71edb339c0e801be91b80001a559</UniqueId>
 			</Properties>
+			<Item class="LocalScript" referent="RBX4729B54028E44473A3A5C4DEBFA40048">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Animate</string>
+					<string name="ScriptGuid">{F7B4EC25-564A-452A-B15D-FA47ABABAC93}</string>
+					<ProtectedString name="Source"><![CDATA[local Character = script.Parent
+local Humanoid = Character:WaitForChild("Humanoid")
+local pose = "Standing"
+
+local userNoUpdateOnLoopSuccess, userNoUpdateOnLoopValue = pcall(function() return UserSettings():IsUserFeatureEnabled("UserNoUpdateOnLoop") end)
+local userNoUpdateOnLoop = userNoUpdateOnLoopSuccess and userNoUpdateOnLoopValue
+
+local userEmoteToRunThresholdChange do
+	local success, value = pcall(function()
+		return UserSettings():IsUserFeatureEnabled("UserEmoteToRunThresholdChange")
+	end)
+	userEmoteToRunThresholdChange = success and value
+end
+
+local userPlayEmoteByIdAnimTrackReturn do
+	local success, value = pcall(function()
+		return UserSettings():IsUserFeatureEnabled("UserPlayEmoteByIdAnimTrackReturn2")
+	end)
+	userPlayEmoteByIdAnimTrackReturn = success and value
+end
+
+local AnimationSpeedDampeningObject = script:FindFirstChild("ScaleDampeningPercent")
+local HumanoidHipHeight = 2
+
+local EMOTE_TRANSITION_TIME = 0.1
+
+local currentAnim = ""
+local currentAnimInstance = nil
+local currentAnimTrack = nil
+local currentAnimKeyframeHandler = nil
+local currentAnimSpeed = 1.0
+
+local runAnimTrack = nil
+local runAnimKeyframeHandler = nil
+
+local PreloadedAnims = {}
+
+local animTable = {}
+local animNames = { 
+	idle = 	{	
+				{ id = "http://www.roblox.com/asset/?id=507766666", weight = 1 },
+				{ id = "http://www.roblox.com/asset/?id=507766951", weight = 1 },
+				{ id = "http://www.roblox.com/asset/?id=507766388", weight = 9 }
+			},
+	walk = 	{ 	
+				{ id = "http://www.roblox.com/asset/?id=507777826", weight = 10 } 
+			}, 
+	run = 	{
+				{ id = "http://www.roblox.com/asset/?id=507767714", weight = 10 } 
+			}, 
+	swim = 	{
+				{ id = "http://www.roblox.com/asset/?id=507784897", weight = 10 } 
+			}, 
+	swimidle = 	{
+				{ id = "http://www.roblox.com/asset/?id=507785072", weight = 10 } 
+			}, 
+	jump = 	{
+				{ id = "http://www.roblox.com/asset/?id=507765000", weight = 10 } 
+			}, 
+	fall = 	{
+				{ id = "http://www.roblox.com/asset/?id=507767968", weight = 10 } 
+			}, 
+	climb = {
+				{ id = "http://www.roblox.com/asset/?id=507765644", weight = 10 } 
+			}, 
+	sit = 	{
+				{ id = "http://www.roblox.com/asset/?id=2506281703", weight = 10 } 
+			},	
+	toolnone = {
+				{ id = "http://www.roblox.com/asset/?id=507768375", weight = 10 } 
+			},
+	toolslash = {
+				{ id = "http://www.roblox.com/asset/?id=522635514", weight = 10 } 
+			},
+	toollunge = {
+				{ id = "http://www.roblox.com/asset/?id=522638767", weight = 10 } 
+			},
+	wave = {
+				{ id = "http://www.roblox.com/asset/?id=507770239", weight = 10 } 
+			},
+	point = {
+				{ id = "http://www.roblox.com/asset/?id=507770453", weight = 10 } 
+			},
+	dance = {
+				{ id = "http://www.roblox.com/asset/?id=507771019", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507771955", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507772104", weight = 10 } 
+			},
+	dance2 = {
+				{ id = "http://www.roblox.com/asset/?id=507776043", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507776720", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507776879", weight = 10 } 
+			},
+	dance3 = {
+				{ id = "http://www.roblox.com/asset/?id=507777268", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507777451", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507777623", weight = 10 } 
+			},
+	laugh = {
+				{ id = "http://www.roblox.com/asset/?id=507770818", weight = 10 } 
+			},
+	cheer = {
+				{ id = "http://www.roblox.com/asset/?id=507770677", weight = 10 } 
+			},
+}
+
+-- Existance in this list signifies that it is an emote, the value indicates if it is a looping emote
+local emoteNames = { wave = false, point = false, dance = true, dance2 = true, dance3 = true, laugh = false, cheer = false}
+
+math.randomseed(tick())
+
+function findExistingAnimationInSet(set, anim)
+	if set == nil or anim == nil then
+		return 0
+	end
+	
+	for idx = 1, set.count, 1 do 
+		if set[idx].anim.AnimationId == anim.AnimationId then
+			return idx
+		end
+	end
+	
+	return 0
+end
+
+function configureAnimationSet(name, fileList)
+	if (animTable[name] ~= nil) then
+		for _, connection in pairs(animTable[name].connections) do
+			connection:disconnect()
+		end
+	end
+	animTable[name] = {}
+	animTable[name].count = 0
+	animTable[name].totalWeight = 0	
+	animTable[name].connections = {}
+
+	local allowCustomAnimations = true
+
+	local success, msg = pcall(function() allowCustomAnimations = game:GetService("StarterPlayer").AllowCustomAnimations end)
+	if not success then
+		allowCustomAnimations = true
+	end
+
+	-- check for config values
+	local config = script:FindFirstChild(name)
+	if (allowCustomAnimations and config ~= nil) then
+		table.insert(animTable[name].connections, config.ChildAdded:connect(function(child) configureAnimationSet(name, fileList) end))
+		table.insert(animTable[name].connections, config.ChildRemoved:connect(function(child) configureAnimationSet(name, fileList) end))
+		
+		local idx = 0
+		for _, childPart in pairs(config:GetChildren()) do
+			if (childPart:IsA("Animation")) then
+				local newWeight = 1
+				local weightObject = childPart:FindFirstChild("Weight")
+				if (weightObject ~= nil) then
+					newWeight = weightObject.Value
+				end
+				animTable[name].count = animTable[name].count + 1
+				idx = animTable[name].count
+				animTable[name][idx] = {}
+				animTable[name][idx].anim = childPart
+				animTable[name][idx].weight = newWeight
+				animTable[name].totalWeight = animTable[name].totalWeight + animTable[name][idx].weight
+				table.insert(animTable[name].connections, childPart.Changed:connect(function(property) configureAnimationSet(name, fileList) end))
+				table.insert(animTable[name].connections, childPart.ChildAdded:connect(function(property) configureAnimationSet(name, fileList) end))
+				table.insert(animTable[name].connections, childPart.ChildRemoved:connect(function(property) configureAnimationSet(name, fileList) end))
+			end
+		end
+	end
+	
+	-- fallback to defaults
+	if (animTable[name].count <= 0) then
+		for idx, anim in pairs(fileList) do
+			animTable[name][idx] = {}
+			animTable[name][idx].anim = Instance.new("Animation")
+			animTable[name][idx].anim.Name = name
+			animTable[name][idx].anim.AnimationId = anim.id
+			animTable[name][idx].weight = anim.weight
+			animTable[name].count = animTable[name].count + 1
+			animTable[name].totalWeight = animTable[name].totalWeight + anim.weight
+		end
+	end
+	
+	-- preload anims
+	for i, animType in pairs(animTable) do
+		for idx = 1, animType.count, 1 do
+			if PreloadedAnims[animType[idx].anim.AnimationId] == nil then
+				Humanoid:LoadAnimation(animType[idx].anim)
+				PreloadedAnims[animType[idx].anim.AnimationId] = true
+			end				
+		end
+	end
+end
+
+------------------------------------------------------------------------------------------------------------
+
+function configureAnimationSetOld(name, fileList)
+	if (animTable[name] ~= nil) then
+		for _, connection in pairs(animTable[name].connections) do
+			connection:disconnect()
+		end
+	end
+	animTable[name] = {}
+	animTable[name].count = 0
+	animTable[name].totalWeight = 0	
+	animTable[name].connections = {}
+
+	local allowCustomAnimations = true
+
+	local success, msg = pcall(function() allowCustomAnimations = game:GetService("StarterPlayer").AllowCustomAnimations end)
+	if not success then
+		allowCustomAnimations = true
+	end
+
+	-- check for config values
+	local config = script:FindFirstChild(name)
+	if (allowCustomAnimations and config ~= nil) then
+		table.insert(animTable[name].connections, config.ChildAdded:connect(function(child) configureAnimationSet(name, fileList) end))
+		table.insert(animTable[name].connections, config.ChildRemoved:connect(function(child) configureAnimationSet(name, fileList) end))
+		local idx = 1
+		for _, childPart in pairs(config:GetChildren()) do
+			if (childPart:IsA("Animation")) then
+				table.insert(animTable[name].connections, childPart.Changed:connect(function(property) configureAnimationSet(name, fileList) end))
+				animTable[name][idx] = {}
+				animTable[name][idx].anim = childPart
+				local weightObject = childPart:FindFirstChild("Weight")
+				if (weightObject == nil) then
+					animTable[name][idx].weight = 1
+				else
+					animTable[name][idx].weight = weightObject.Value
+				end
+				animTable[name].count = animTable[name].count + 1
+				animTable[name].totalWeight = animTable[name].totalWeight + animTable[name][idx].weight
+				idx = idx + 1
+			end
+		end
+	end
+
+	-- fallback to defaults
+	if (animTable[name].count <= 0) then
+		for idx, anim in pairs(fileList) do
+			animTable[name][idx] = {}
+			animTable[name][idx].anim = Instance.new("Animation")
+			animTable[name][idx].anim.Name = name
+			animTable[name][idx].anim.AnimationId = anim.id
+			animTable[name][idx].weight = anim.weight
+			animTable[name].count = animTable[name].count + 1
+			animTable[name].totalWeight = animTable[name].totalWeight + anim.weight
+			-- print(name .. " [" .. idx .. "] " .. anim.id .. " (" .. anim.weight .. ")")
+		end
+	end
+	
+	-- preload anims
+	for i, animType in pairs(animTable) do
+		for idx = 1, animType.count, 1 do 
+			Humanoid:LoadAnimation(animType[idx].anim)
+		end
+	end
+end
+
+-- Setup animation objects
+function scriptChildModified(child)
+	local fileList = animNames[child.Name]
+	if (fileList ~= nil) then
+		configureAnimationSet(child.Name, fileList)
+	end	
+end
+
+script.ChildAdded:Connect(scriptChildModified)
+script.ChildRemoved:Connect(scriptChildModified)
+
+
+for name, fileList in pairs(animNames) do 
+	configureAnimationSet(name, fileList)
+end	
+
+-- ANIMATION
+
+-- declarations
+local toolAnim = "None"
+local toolAnimTime = 0
+
+local jumpAnimTime = 0
+local jumpAnimDuration = 0.31
+
+local toolTransitionTime = 0.1
+local fallTransitionTime = 0.2
+
+local currentlyPlayingEmote = false
+
+-- functions
+
+function stopAllAnimations()
+	local oldAnim = currentAnim
+
+	-- return to idle if finishing an emote
+	if (emoteNames[oldAnim] ~= nil and emoteNames[oldAnim] == false) then
+		oldAnim = "idle"
+	end
+	
+	if currentlyPlayingEmote then
+		oldAnim = "idle"
+		currentlyPlayingEmote = false
+	end
+
+	currentAnim = ""
+	currentAnimInstance = nil
+	if (currentAnimKeyframeHandler ~= nil) then
+		currentAnimKeyframeHandler:disconnect()
+	end
+
+	if (currentAnimTrack ~= nil) then
+		currentAnimTrack:Stop()
+		currentAnimTrack:Destroy()
+		currentAnimTrack = nil
+	end
+
+	-- clean up walk if there is one
+	if (runAnimKeyframeHandler ~= nil) then
+		runAnimKeyframeHandler:disconnect()
+	end
+	
+	if (runAnimTrack ~= nil) then
+		runAnimTrack:Stop()
+		runAnimTrack:Destroy()
+		runAnimTrack = nil
+	end
+	
+	return oldAnim
+end
+
+function getHeightScale()
+	if Humanoid then
+		if not Humanoid.AutomaticScalingEnabled then
+			return 1
+		end
+		
+		local scale = Humanoid.HipHeight / HumanoidHipHeight
+		if AnimationSpeedDampeningObject == nil then
+			AnimationSpeedDampeningObject = script:FindFirstChild("ScaleDampeningPercent")
+		end
+		if AnimationSpeedDampeningObject ~= nil then
+			scale = 1 + (Humanoid.HipHeight - HumanoidHipHeight) * AnimationSpeedDampeningObject.Value / HumanoidHipHeight
+		end
+		return scale
+	end	
+	return 1
+end
+
+local function rootMotionCompensation(speed)
+	local speedScaled = speed * 1.25
+	local heightScale = getHeightScale()
+	local runSpeed = speedScaled / heightScale
+	return runSpeed
+end
+
+local smallButNotZero = 0.0001
+local function setRunSpeed(speed)
+	local normalizedWalkSpeed = 0.5 -- established empirically using current `913402848` walk animation
+	local normalizedRunSpeed  = 1
+	local runSpeed = rootMotionCompensation(speed)
+
+	local walkAnimationWeight = smallButNotZero
+	local runAnimationWeight = smallButNotZero
+	local walkAnimationTimewarp = runSpeed/normalizedWalkSpeed
+	local runAnimationTimerwarp = runSpeed/normalizedRunSpeed
+
+	if runSpeed <= normalizedWalkSpeed then
+		walkAnimationWeight = 1
+	elseif runSpeed < normalizedRunSpeed then
+		local fadeInRun = (runSpeed - normalizedWalkSpeed)/(normalizedRunSpeed - normalizedWalkSpeed)
+		walkAnimationWeight = 1 - fadeInRun
+		runAnimationWeight  = fadeInRun
+		walkAnimationTimewarp = 1
+		runAnimationTimerwarp = 1
+	else
+		runAnimationWeight = 1
+	end
+	currentAnimTrack:AdjustWeight(walkAnimationWeight)
+	runAnimTrack:AdjustWeight(runAnimationWeight)
+	currentAnimTrack:AdjustSpeed(walkAnimationTimewarp)
+	runAnimTrack:AdjustSpeed(runAnimationTimerwarp)
+end
+
+function setAnimationSpeed(speed)
+	if currentAnim == "walk" then
+			setRunSpeed(speed)
+	else
+		if speed ~= currentAnimSpeed then
+			currentAnimSpeed = speed
+			currentAnimTrack:AdjustSpeed(currentAnimSpeed)
+		end
+	end
+end
+
+function keyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+		if currentAnim == "walk" then
+			if userNoUpdateOnLoop == true then
+				if runAnimTrack.Looped ~= true then
+					runAnimTrack.TimePosition = 0.0
+				end
+				if currentAnimTrack.Looped ~= true then
+					currentAnimTrack.TimePosition = 0.0
+				end
+			else
+				runAnimTrack.TimePosition = 0.0
+				currentAnimTrack.TimePosition = 0.0
+			end
+		else
+			local repeatAnim = currentAnim
+			-- return to idle if finishing an emote
+			if (emoteNames[repeatAnim] ~= nil and emoteNames[repeatAnim] == false) then
+				repeatAnim = "idle"
+			end
+			
+			if currentlyPlayingEmote then
+				if currentAnimTrack.Looped then
+					-- Allow the emote to loop
+					return
+				end
+				
+				repeatAnim = "idle"
+				currentlyPlayingEmote = false
+			end
+			
+			local animSpeed = currentAnimSpeed
+			playAnimation(repeatAnim, 0.15, Humanoid)
+			setAnimationSpeed(animSpeed)
+		end
+	end
+end
+
+function rollAnimation(animName)
+	local roll = math.random(1, animTable[animName].totalWeight) 
+	local origRoll = roll
+	local idx = 1
+	while (roll > animTable[animName][idx].weight) do
+		roll = roll - animTable[animName][idx].weight
+		idx = idx + 1
+	end
+	return idx
+end
+
+local function switchToAnim(anim, animName, transitionTime, humanoid)
+	-- switch animation		
+	if (anim ~= currentAnimInstance) then
+		
+		if (currentAnimTrack ~= nil) then
+			currentAnimTrack:Stop(transitionTime)
+			currentAnimTrack:Destroy()
+		end
+
+		if (runAnimTrack ~= nil) then
+			runAnimTrack:Stop(transitionTime)
+			runAnimTrack:Destroy()
+			if userNoUpdateOnLoop == true then
+				runAnimTrack = nil
+			end
+		end
+
+		currentAnimSpeed = 1.0
+	
+		-- load it to the humanoid; get AnimationTrack
+		currentAnimTrack = humanoid:LoadAnimation(anim)
+		currentAnimTrack.Priority = Enum.AnimationPriority.Core
+		 
+		-- play the animation
+		currentAnimTrack:Play(transitionTime)
+		currentAnim = animName
+		currentAnimInstance = anim
+
+		-- set up keyframe name triggers
+		if (currentAnimKeyframeHandler ~= nil) then
+			currentAnimKeyframeHandler:disconnect()
+		end
+		currentAnimKeyframeHandler = currentAnimTrack.KeyframeReached:connect(keyFrameReachedFunc)
+		
+		-- check to see if we need to blend a walk/run animation
+		if animName == "walk" then
+			local runAnimName = "run"
+			local runIdx = rollAnimation(runAnimName)
+
+			runAnimTrack = humanoid:LoadAnimation(animTable[runAnimName][runIdx].anim)
+			runAnimTrack.Priority = Enum.AnimationPriority.Core
+			runAnimTrack:Play(transitionTime)		
+			
+			if (runAnimKeyframeHandler ~= nil) then
+				runAnimKeyframeHandler:disconnect()
+			end
+			runAnimKeyframeHandler = runAnimTrack.KeyframeReached:connect(keyFrameReachedFunc)	
+		end
+	end
+end
+
+function playAnimation(animName, transitionTime, humanoid) 	
+	local idx = rollAnimation(animName)
+	local anim = animTable[animName][idx].anim
+
+	switchToAnim(anim, animName, transitionTime, humanoid)
+	currentlyPlayingEmote = false
+end
+
+function playEmote(emoteAnim, transitionTime, humanoid)
+	switchToAnim(emoteAnim, emoteAnim.Name, transitionTime, humanoid)
+	currentlyPlayingEmote = true
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+local toolAnimName = ""
+local toolAnimTrack = nil
+local toolAnimInstance = nil
+local currentToolAnimKeyframeHandler = nil
+
+function toolKeyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+		playToolAnimation(toolAnimName, 0.0, Humanoid)
+	end
+end
+
+
+function playToolAnimation(animName, transitionTime, humanoid, priority)	 		
+		local idx = rollAnimation(animName)
+		local anim = animTable[animName][idx].anim
+
+		if (toolAnimInstance ~= anim) then
+			
+			if (toolAnimTrack ~= nil) then
+				toolAnimTrack:Stop()
+				toolAnimTrack:Destroy()
+				transitionTime = 0
+			end
+					
+			-- load it to the humanoid; get AnimationTrack
+			toolAnimTrack = humanoid:LoadAnimation(anim)
+			if priority then
+				toolAnimTrack.Priority = priority
+			end
+			 
+			-- play the animation
+			toolAnimTrack:Play(transitionTime)
+			toolAnimName = animName
+			toolAnimInstance = anim
+
+			currentToolAnimKeyframeHandler = toolAnimTrack.KeyframeReached:connect(toolKeyFrameReachedFunc)
+		end
+end
+
+function stopToolAnimations()
+	local oldAnim = toolAnimName
+
+	if (currentToolAnimKeyframeHandler ~= nil) then
+		currentToolAnimKeyframeHandler:disconnect()
+	end
+
+	toolAnimName = ""
+	toolAnimInstance = nil
+	if (toolAnimTrack ~= nil) then
+		toolAnimTrack:Stop()
+		toolAnimTrack:Destroy()
+		toolAnimTrack = nil
+	end
+
+	return oldAnim
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+-- STATE CHANGE HANDLERS
+
+function onRunning(speed)
+	local movedDuringEmote =
+		userEmoteToRunThresholdChange and currentlyPlayingEmote and Humanoid.MoveDirection == Vector3.new(0, 0, 0)
+	local speedThreshold = movedDuringEmote and Humanoid.WalkSpeed or 0.75
+	if speed > speedThreshold then
+        
+		local scale = 16.0
+		playAnimation("walk", 0.2, Humanoid)
+		setAnimationSpeed(speed / scale)
+		pose = "Running"
+	else
+		if emoteNames[currentAnim] == nil and not currentlyPlayingEmote then
+			playAnimation("idle", 0.2, Humanoid)
+			pose = "Standing"
+		end
+	end
+end
+
+function onDied()
+	pose = "Dead"
+end
+
+function onJumping()
+	playAnimation("jump", 0.1, Humanoid)
+	jumpAnimTime = jumpAnimDuration
+	pose = "Jumping"
+end
+
+function onClimbing(speed)
+	local scale = 5.0
+	playAnimation("climb", 0.1, Humanoid)
+	setAnimationSpeed(speed / scale)
+	pose = "Climbing"
+end
+
+function onGettingUp()
+	pose = "GettingUp"
+end
+
+function onFreeFall()
+	if (jumpAnimTime <= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	end
+	pose = "FreeFall"
+end
+
+function onFallingDown()
+	pose = "FallingDown"
+end
+
+function onSeated()
+	pose = "Seated"
+end
+
+function onPlatformStanding()
+	pose = "PlatformStanding"
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+function onSwimming(speed)
+	if speed > 1.00 then
+		local scale = 10.0
+		playAnimation("swim", 0.4, Humanoid)
+		setAnimationSpeed(speed / scale)
+		pose = "Swimming"
+	else
+		playAnimation("swimidle", 0.4, Humanoid)
+		pose = "Standing"
+	end
+end
+
+function animateTool()
+	if (toolAnim == "None") then
+		playToolAnimation("toolnone", toolTransitionTime, Humanoid, Enum.AnimationPriority.Idle)
+		return
+	end
+
+	if (toolAnim == "Slash") then
+		playToolAnimation("toolslash", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+
+	if (toolAnim == "Lunge") then
+		playToolAnimation("toollunge", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+end
+
+function getToolAnim(tool)
+	for _, c in ipairs(tool:GetChildren()) do
+		if c.Name == "toolanim" and c.className == "StringValue" then
+			return c
+		end
+	end
+	return nil
+end
+
+local lastTick = 0
+
+function stepAnimate(currentTime)
+	local amplitude = 1
+	local frequency = 1
+  	local deltaTime = currentTime - lastTick
+  	lastTick = currentTime
+
+	local climbFudge = 0
+	local setAngles = false
+
+  	if (jumpAnimTime > 0) then
+  		jumpAnimTime = jumpAnimTime - deltaTime
+  	end
+
+	if (pose == "FreeFall" and jumpAnimTime <= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	elseif (pose == "Seated") then
+		playAnimation("sit", 0.5, Humanoid)
+		return
+	elseif (pose == "Running") then
+        print("pose = running")
+		playAnimation("walk", 0.2, Humanoid)
+	elseif (pose == "Dead" or pose == "GettingUp" or pose == "FallingDown" or pose == "Seated" or pose == "PlatformStanding") then
+		stopAllAnimations()
+		amplitude = 0.1
+		frequency = 1
+		setAngles = true
+	end
+
+	-- Tool Animation handling
+	local tool = Character:FindFirstChildOfClass("Tool")
+	if tool and tool:FindFirstChild("Handle") then
+		local animStringValueObject = getToolAnim(tool)
+
+		if animStringValueObject then
+			toolAnim = animStringValueObject.Value
+			-- message recieved, delete StringValue
+			animStringValueObject.Parent = nil
+			toolAnimTime = currentTime + .3
+		end
+
+		if currentTime > toolAnimTime then
+			toolAnimTime = 0
+			toolAnim = "None"
+		end
+
+		animateTool()		
+	else
+		stopToolAnimations()
+		toolAnim = "None"
+		toolAnimInstance = nil
+		toolAnimTime = 0
+	end
+end
+
+-- connect events
+Humanoid.Died:connect(onDied)
+Humanoid.Running:connect(onRunning)
+Humanoid.Jumping:connect(onJumping)
+Humanoid.Climbing:connect(onClimbing)
+Humanoid.GettingUp:connect(onGettingUp)
+Humanoid.FreeFalling:connect(onFreeFall)
+Humanoid.FallingDown:connect(onFallingDown)
+Humanoid.Seated:connect(onSeated)
+Humanoid.PlatformStanding:connect(onPlatformStanding)
+Humanoid.Swimming:connect(onSwimming)
+
+-- setup emote chat hook
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+	local emote = ""
+	if (string.sub(msg, 1, 3) == "/e ") then
+		emote = string.sub(msg, 4)
+	elseif (string.sub(msg, 1, 7) == "/emote ") then
+		emote = string.sub(msg, 8)
+	end
+	
+	if (pose == "Standing" and emoteNames[emote] ~= nil) then
+		playAnimation(emote, EMOTE_TRANSITION_TIME, Humanoid)
+	end
+end)
+
+-- emote bindable hook
+script:WaitForChild("PlayEmote").OnInvoke = function(emote)
+	-- Only play emotes when idling
+	if pose ~= "Standing" then
+		return
+	end
+
+	if emoteNames[emote] ~= nil then
+		-- Default emotes
+		playAnimation(emote, EMOTE_TRANSITION_TIME, Humanoid)
+		
+		if userPlayEmoteByIdAnimTrackReturn then
+			return true, currentAnimTrack
+		else
+			return true
+		end
+	elseif typeof(emote) == "Instance" and emote:IsA("Animation") then
+		-- Non-default emotes
+		playEmote(emote, EMOTE_TRANSITION_TIME, Humanoid)
+
+		if userPlayEmoteByIdAnimTrackReturn then
+			return true, currentAnimTrack
+		else
+			return true
+		end
+	end
+	
+	-- Return false to indicate that the emote could not be played
+	return false
+end
+
+if Character.Parent ~= nil then
+	-- initialize to idle
+	playAnimation("idle", 0.1, Humanoid)
+	pose = "Standing"
+end
+
+-- loop to handle timed state transitions and tool animations
+while Character.Parent ~= nil do
+	local _, currentGameTime = wait(0.1)
+	stepAnimate(currentGameTime)
+end
+
+]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">763e403e57068fda01c118510007665d</UniqueId>
+				</Properties>
+			</Item>
+			<Item class="Folder" referent="RBX5FD97C5E91064DD6A1C54061AA73949C">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<string name="Name">Client</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<UniqueId name="UniqueId">763e403e57068fda01c1185100100270</UniqueId>
+				</Properties>
+				<Item class="LocalScript" referent="RBXCE72BF4415AE44458783D9B53D6199A9">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<bool name="Disabled">false</bool>
+						<Content name="LinkedSource"><null></null></Content>
+						<string name="Name">Animate</string>
+						<string name="ScriptGuid">{BDCA247C-5A80-471D-BF5B-E37C495666E3}</string>
+						<ProtectedString name="Source"><![CDATA[local Character = script.Parent
+local Humanoid = Character:WaitForChild("Humanoid")
+local pose = "Standing"
+
+local userNoUpdateOnLoopSuccess, userNoUpdateOnLoopValue = pcall(function() return UserSettings():IsUserFeatureEnabled("UserNoUpdateOnLoop") end)
+local userNoUpdateOnLoop = userNoUpdateOnLoopSuccess and userNoUpdateOnLoopValue
+
+local userEmoteToRunThresholdChange do
+	local success, value = pcall(function()
+		return UserSettings():IsUserFeatureEnabled("UserEmoteToRunThresholdChange")
+	end)
+	userEmoteToRunThresholdChange = success and value
+end
+
+local userPlayEmoteByIdAnimTrackReturn do
+	local success, value = pcall(function()
+		return UserSettings():IsUserFeatureEnabled("UserPlayEmoteByIdAnimTrackReturn2")
+	end)
+	userPlayEmoteByIdAnimTrackReturn = success and value
+end
+
+local AnimationSpeedDampeningObject = script:FindFirstChild("ScaleDampeningPercent")
+local HumanoidHipHeight = 2
+
+local EMOTE_TRANSITION_TIME = 0.1
+
+local currentAnim = ""
+local currentAnimInstance = nil
+local currentAnimTrack = nil
+local currentAnimKeyframeHandler = nil
+local currentAnimSpeed = 1.0
+
+local runAnimTrack = nil
+local runAnimKeyframeHandler = nil
+
+local PreloadedAnims = {}
+
+local animTable = {}
+local animNames = { 
+	idle = 	{	
+				{ id = "http://www.roblox.com/asset/?id=507766666", weight = 1 },
+				{ id = "http://www.roblox.com/asset/?id=507766951", weight = 1 },
+				{ id = "http://www.roblox.com/asset/?id=507766388", weight = 9 }
+			},
+	walk = 	{ 	
+				{ id = "http://www.roblox.com/asset/?id=507777826", weight = 10 } 
+			}, 
+	run = 	{
+				{ id = "http://www.roblox.com/asset/?id=507767714", weight = 10 } 
+			}, 
+	swim = 	{
+				{ id = "http://www.roblox.com/asset/?id=507784897", weight = 10 } 
+			}, 
+	swimidle = 	{
+				{ id = "http://www.roblox.com/asset/?id=507785072", weight = 10 } 
+			}, 
+	jump = 	{
+				{ id = "http://www.roblox.com/asset/?id=507765000", weight = 10 } 
+			}, 
+	fall = 	{
+				{ id = "http://www.roblox.com/asset/?id=507767968", weight = 10 } 
+			}, 
+	climb = {
+				{ id = "http://www.roblox.com/asset/?id=507765644", weight = 10 } 
+			}, 
+	sit = 	{
+				{ id = "http://www.roblox.com/asset/?id=2506281703", weight = 10 } 
+			},	
+	toolnone = {
+				{ id = "http://www.roblox.com/asset/?id=507768375", weight = 10 } 
+			},
+	toolslash = {
+				{ id = "http://www.roblox.com/asset/?id=522635514", weight = 10 } 
+			},
+	toollunge = {
+				{ id = "http://www.roblox.com/asset/?id=522638767", weight = 10 } 
+			},
+	wave = {
+				{ id = "http://www.roblox.com/asset/?id=507770239", weight = 10 } 
+			},
+	point = {
+				{ id = "http://www.roblox.com/asset/?id=507770453", weight = 10 } 
+			},
+	dance = {
+				{ id = "http://www.roblox.com/asset/?id=507771019", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507771955", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507772104", weight = 10 } 
+			},
+	dance2 = {
+				{ id = "http://www.roblox.com/asset/?id=507776043", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507776720", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507776879", weight = 10 } 
+			},
+	dance3 = {
+				{ id = "http://www.roblox.com/asset/?id=507777268", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507777451", weight = 10 }, 
+				{ id = "http://www.roblox.com/asset/?id=507777623", weight = 10 } 
+			},
+	laugh = {
+				{ id = "http://www.roblox.com/asset/?id=507770818", weight = 10 } 
+			},
+	cheer = {
+				{ id = "http://www.roblox.com/asset/?id=507770677", weight = 10 } 
+			},
+}
+
+-- Existance in this list signifies that it is an emote, the value indicates if it is a looping emote
+local emoteNames = { wave = false, point = false, dance = true, dance2 = true, dance3 = true, laugh = false, cheer = false}
+
+math.randomseed(tick())
+
+function findExistingAnimationInSet(set, anim)
+	if set == nil or anim == nil then
+		return 0
+	end
+	
+	for idx = 1, set.count, 1 do 
+		if set[idx].anim.AnimationId == anim.AnimationId then
+			return idx
+		end
+	end
+	
+	return 0
+end
+
+function configureAnimationSet(name, fileList)
+	if (animTable[name] ~= nil) then
+		for _, connection in pairs(animTable[name].connections) do
+			connection:disconnect()
+		end
+	end
+	animTable[name] = {}
+	animTable[name].count = 0
+	animTable[name].totalWeight = 0	
+	animTable[name].connections = {}
+
+	local allowCustomAnimations = true
+
+	local success, msg = pcall(function() allowCustomAnimations = game:GetService("StarterPlayer").AllowCustomAnimations end)
+	if not success then
+		allowCustomAnimations = true
+	end
+
+	-- check for config values
+	local config = script:FindFirstChild(name)
+	if (allowCustomAnimations and config ~= nil) then
+		table.insert(animTable[name].connections, config.ChildAdded:connect(function(child) configureAnimationSet(name, fileList) end))
+		table.insert(animTable[name].connections, config.ChildRemoved:connect(function(child) configureAnimationSet(name, fileList) end))
+		
+		local idx = 0
+		for _, childPart in pairs(config:GetChildren()) do
+			if (childPart:IsA("Animation")) then
+				local newWeight = 1
+				local weightObject = childPart:FindFirstChild("Weight")
+				if (weightObject ~= nil) then
+					newWeight = weightObject.Value
+				end
+				animTable[name].count = animTable[name].count + 1
+				idx = animTable[name].count
+				animTable[name][idx] = {}
+				animTable[name][idx].anim = childPart
+				animTable[name][idx].weight = newWeight
+				animTable[name].totalWeight = animTable[name].totalWeight + animTable[name][idx].weight
+				table.insert(animTable[name].connections, childPart.Changed:connect(function(property) configureAnimationSet(name, fileList) end))
+				table.insert(animTable[name].connections, childPart.ChildAdded:connect(function(property) configureAnimationSet(name, fileList) end))
+				table.insert(animTable[name].connections, childPart.ChildRemoved:connect(function(property) configureAnimationSet(name, fileList) end))
+			end
+		end
+	end
+	
+	-- fallback to defaults
+	if (animTable[name].count <= 0) then
+		for idx, anim in pairs(fileList) do
+			animTable[name][idx] = {}
+			animTable[name][idx].anim = Instance.new("Animation")
+			animTable[name][idx].anim.Name = name
+			animTable[name][idx].anim.AnimationId = anim.id
+			animTable[name][idx].weight = anim.weight
+			animTable[name].count = animTable[name].count + 1
+			animTable[name].totalWeight = animTable[name].totalWeight + anim.weight
+		end
+	end
+	
+	-- preload anims
+	for i, animType in pairs(animTable) do
+		for idx = 1, animType.count, 1 do
+			if PreloadedAnims[animType[idx].anim.AnimationId] == nil then
+				Humanoid:LoadAnimation(animType[idx].anim)
+				PreloadedAnims[animType[idx].anim.AnimationId] = true
+			end				
+		end
+	end
+end
+
+------------------------------------------------------------------------------------------------------------
+
+function configureAnimationSetOld(name, fileList)
+	if (animTable[name] ~= nil) then
+		for _, connection in pairs(animTable[name].connections) do
+			connection:disconnect()
+		end
+	end
+	animTable[name] = {}
+	animTable[name].count = 0
+	animTable[name].totalWeight = 0	
+	animTable[name].connections = {}
+
+	local allowCustomAnimations = true
+
+	local success, msg = pcall(function() allowCustomAnimations = game:GetService("StarterPlayer").AllowCustomAnimations end)
+	if not success then
+		allowCustomAnimations = true
+	end
+
+	-- check for config values
+	local config = script:FindFirstChild(name)
+	if (allowCustomAnimations and config ~= nil) then
+		table.insert(animTable[name].connections, config.ChildAdded:connect(function(child) configureAnimationSet(name, fileList) end))
+		table.insert(animTable[name].connections, config.ChildRemoved:connect(function(child) configureAnimationSet(name, fileList) end))
+		local idx = 1
+		for _, childPart in pairs(config:GetChildren()) do
+			if (childPart:IsA("Animation")) then
+				table.insert(animTable[name].connections, childPart.Changed:connect(function(property) configureAnimationSet(name, fileList) end))
+				animTable[name][idx] = {}
+				animTable[name][idx].anim = childPart
+				local weightObject = childPart:FindFirstChild("Weight")
+				if (weightObject == nil) then
+					animTable[name][idx].weight = 1
+				else
+					animTable[name][idx].weight = weightObject.Value
+				end
+				animTable[name].count = animTable[name].count + 1
+				animTable[name].totalWeight = animTable[name].totalWeight + animTable[name][idx].weight
+				idx = idx + 1
+			end
+		end
+	end
+
+	-- fallback to defaults
+	if (animTable[name].count <= 0) then
+		for idx, anim in pairs(fileList) do
+			animTable[name][idx] = {}
+			animTable[name][idx].anim = Instance.new("Animation")
+			animTable[name][idx].anim.Name = name
+			animTable[name][idx].anim.AnimationId = anim.id
+			animTable[name][idx].weight = anim.weight
+			animTable[name].count = animTable[name].count + 1
+			animTable[name].totalWeight = animTable[name].totalWeight + anim.weight
+			-- print(name .. " [" .. idx .. "] " .. anim.id .. " (" .. anim.weight .. ")")
+		end
+	end
+	
+	-- preload anims
+	for i, animType in pairs(animTable) do
+		for idx = 1, animType.count, 1 do 
+			Humanoid:LoadAnimation(animType[idx].anim)
+		end
+	end
+end
+
+-- Setup animation objects
+function scriptChildModified(child)
+	local fileList = animNames[child.Name]
+	if (fileList ~= nil) then
+		configureAnimationSet(child.Name, fileList)
+	end	
+end
+
+script.ChildAdded:Connect(scriptChildModified)
+script.ChildRemoved:Connect(scriptChildModified)
+
+
+for name, fileList in pairs(animNames) do 
+	configureAnimationSet(name, fileList)
+end	
+
+-- ANIMATION
+
+-- declarations
+local toolAnim = "None"
+local toolAnimTime = 0
+
+local jumpAnimTime = 0
+local jumpAnimDuration = 0.31
+
+local toolTransitionTime = 0.1
+local fallTransitionTime = 0.2
+
+local currentlyPlayingEmote = false
+
+-- functions
+
+function stopAllAnimations()
+	local oldAnim = currentAnim
+
+	-- return to idle if finishing an emote
+	if (emoteNames[oldAnim] ~= nil and emoteNames[oldAnim] == false) then
+		oldAnim = "idle"
+	end
+	
+	if currentlyPlayingEmote then
+		oldAnim = "idle"
+		currentlyPlayingEmote = false
+	end
+
+	currentAnim = ""
+	currentAnimInstance = nil
+	if (currentAnimKeyframeHandler ~= nil) then
+		currentAnimKeyframeHandler:disconnect()
+	end
+
+	if (currentAnimTrack ~= nil) then
+		currentAnimTrack:Stop()
+		currentAnimTrack:Destroy()
+		currentAnimTrack = nil
+	end
+
+	-- clean up walk if there is one
+	if (runAnimKeyframeHandler ~= nil) then
+		runAnimKeyframeHandler:disconnect()
+	end
+	
+	if (runAnimTrack ~= nil) then
+		runAnimTrack:Stop()
+		runAnimTrack:Destroy()
+		runAnimTrack = nil
+	end
+	
+	return oldAnim
+end
+
+function getHeightScale()
+	if Humanoid then
+		if not Humanoid.AutomaticScalingEnabled then
+			return 1
+		end
+		
+		local scale = Humanoid.HipHeight / HumanoidHipHeight
+		if AnimationSpeedDampeningObject == nil then
+			AnimationSpeedDampeningObject = script:FindFirstChild("ScaleDampeningPercent")
+		end
+		if AnimationSpeedDampeningObject ~= nil then
+			scale = 1 + (Humanoid.HipHeight - HumanoidHipHeight) * AnimationSpeedDampeningObject.Value / HumanoidHipHeight
+		end
+		return scale
+	end	
+	return 1
+end
+
+local function rootMotionCompensation(speed)
+	local speedScaled = speed * 1.25
+	local heightScale = getHeightScale()
+	local runSpeed = speedScaled / heightScale
+	return runSpeed
+end
+
+local smallButNotZero = 0.0001
+local function setRunSpeed(speed)
+	local normalizedWalkSpeed = 0.5 -- established empirically using current `913402848` walk animation
+	local normalizedRunSpeed  = 1
+	local runSpeed = rootMotionCompensation(speed)
+
+	local walkAnimationWeight = smallButNotZero
+	local runAnimationWeight = smallButNotZero
+	local walkAnimationTimewarp = runSpeed/normalizedWalkSpeed
+	local runAnimationTimerwarp = runSpeed/normalizedRunSpeed
+
+	if runSpeed <= normalizedWalkSpeed then
+		walkAnimationWeight = 1
+	elseif runSpeed < normalizedRunSpeed then
+		local fadeInRun = (runSpeed - normalizedWalkSpeed)/(normalizedRunSpeed - normalizedWalkSpeed)
+		walkAnimationWeight = 1 - fadeInRun
+		runAnimationWeight  = fadeInRun
+		walkAnimationTimewarp = 1
+		runAnimationTimerwarp = 1
+	else
+		runAnimationWeight = 1
+	end
+	currentAnimTrack:AdjustWeight(walkAnimationWeight)
+	runAnimTrack:AdjustWeight(runAnimationWeight)
+	currentAnimTrack:AdjustSpeed(walkAnimationTimewarp)
+	runAnimTrack:AdjustSpeed(runAnimationTimerwarp)
+end
+
+function setAnimationSpeed(speed)
+	if currentAnim == "walk" then
+			setRunSpeed(speed)
+	else
+		if speed ~= currentAnimSpeed then
+			currentAnimSpeed = speed
+			currentAnimTrack:AdjustSpeed(currentAnimSpeed)
+		end
+	end
+end
+
+function keyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+		if currentAnim == "walk" then
+			if userNoUpdateOnLoop == true then
+				if runAnimTrack.Looped ~= true then
+					runAnimTrack.TimePosition = 0.0
+				end
+				if currentAnimTrack.Looped ~= true then
+					currentAnimTrack.TimePosition = 0.0
+				end
+			else
+				runAnimTrack.TimePosition = 0.0
+				currentAnimTrack.TimePosition = 0.0
+			end
+		else
+			local repeatAnim = currentAnim
+			-- return to idle if finishing an emote
+			if (emoteNames[repeatAnim] ~= nil and emoteNames[repeatAnim] == false) then
+				repeatAnim = "idle"
+			end
+			
+			if currentlyPlayingEmote then
+				if currentAnimTrack.Looped then
+					-- Allow the emote to loop
+					return
+				end
+				
+				repeatAnim = "idle"
+				currentlyPlayingEmote = false
+			end
+			
+			local animSpeed = currentAnimSpeed
+			playAnimation(repeatAnim, 0.15, Humanoid)
+			setAnimationSpeed(animSpeed)
+		end
+	end
+end
+
+function rollAnimation(animName)
+	local roll = math.random(1, animTable[animName].totalWeight) 
+	local origRoll = roll
+	local idx = 1
+	while (roll > animTable[animName][idx].weight) do
+		roll = roll - animTable[animName][idx].weight
+		idx = idx + 1
+	end
+	return idx
+end
+
+local function switchToAnim(anim, animName, transitionTime, humanoid)
+	-- switch animation		
+	if (anim ~= currentAnimInstance) then
+		
+		if (currentAnimTrack ~= nil) then
+			currentAnimTrack:Stop(transitionTime)
+			currentAnimTrack:Destroy()
+		end
+
+		if (runAnimTrack ~= nil) then
+			runAnimTrack:Stop(transitionTime)
+			runAnimTrack:Destroy()
+			if userNoUpdateOnLoop == true then
+				runAnimTrack = nil
+			end
+		end
+
+		currentAnimSpeed = 1.0
+	
+		-- load it to the humanoid; get AnimationTrack
+		currentAnimTrack = humanoid:LoadAnimation(anim)
+		currentAnimTrack.Priority = Enum.AnimationPriority.Core
+		 
+		-- play the animation
+		currentAnimTrack:Play(transitionTime)
+		currentAnim = animName
+		currentAnimInstance = anim
+
+		-- set up keyframe name triggers
+		if (currentAnimKeyframeHandler ~= nil) then
+			currentAnimKeyframeHandler:disconnect()
+		end
+		currentAnimKeyframeHandler = currentAnimTrack.KeyframeReached:connect(keyFrameReachedFunc)
+		
+		-- check to see if we need to blend a walk/run animation
+		if animName == "walk" then
+			local runAnimName = "run"
+			local runIdx = rollAnimation(runAnimName)
+
+			runAnimTrack = humanoid:LoadAnimation(animTable[runAnimName][runIdx].anim)
+			runAnimTrack.Priority = Enum.AnimationPriority.Core
+			runAnimTrack:Play(transitionTime)		
+			
+			if (runAnimKeyframeHandler ~= nil) then
+				runAnimKeyframeHandler:disconnect()
+			end
+			runAnimKeyframeHandler = runAnimTrack.KeyframeReached:connect(keyFrameReachedFunc)	
+		end
+	end
+end
+
+function playAnimation(animName, transitionTime, humanoid) 	
+	local idx = rollAnimation(animName)
+	local anim = animTable[animName][idx].anim
+
+	switchToAnim(anim, animName, transitionTime, humanoid)
+	currentlyPlayingEmote = false
+end
+
+function playEmote(emoteAnim, transitionTime, humanoid)
+	switchToAnim(emoteAnim, emoteAnim.Name, transitionTime, humanoid)
+	currentlyPlayingEmote = true
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+local toolAnimName = ""
+local toolAnimTrack = nil
+local toolAnimInstance = nil
+local currentToolAnimKeyframeHandler = nil
+
+function toolKeyFrameReachedFunc(frameName)
+	if (frameName == "End") then
+		playToolAnimation(toolAnimName, 0.0, Humanoid)
+	end
+end
+
+
+function playToolAnimation(animName, transitionTime, humanoid, priority)	 		
+		local idx = rollAnimation(animName)
+		local anim = animTable[animName][idx].anim
+
+		if (toolAnimInstance ~= anim) then
+			
+			if (toolAnimTrack ~= nil) then
+				toolAnimTrack:Stop()
+				toolAnimTrack:Destroy()
+				transitionTime = 0
+			end
+					
+			-- load it to the humanoid; get AnimationTrack
+			toolAnimTrack = humanoid:LoadAnimation(anim)
+			if priority then
+				toolAnimTrack.Priority = priority
+			end
+			 
+			-- play the animation
+			toolAnimTrack:Play(transitionTime)
+			toolAnimName = animName
+			toolAnimInstance = anim
+
+			currentToolAnimKeyframeHandler = toolAnimTrack.KeyframeReached:connect(toolKeyFrameReachedFunc)
+		end
+end
+
+function stopToolAnimations()
+	local oldAnim = toolAnimName
+
+	if (currentToolAnimKeyframeHandler ~= nil) then
+		currentToolAnimKeyframeHandler:disconnect()
+	end
+
+	toolAnimName = ""
+	toolAnimInstance = nil
+	if (toolAnimTrack ~= nil) then
+		toolAnimTrack:Stop()
+		toolAnimTrack:Destroy()
+		toolAnimTrack = nil
+	end
+
+	return oldAnim
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+-- STATE CHANGE HANDLERS
+
+function onRunning(speed)
+	local movedDuringEmote =
+	userEmoteToRunThresholdChange and currentlyPlayingEmote and Humanoid.MoveDirection == Vector3.new(0, 0, 0)
+	local speedThreshold = movedDuringEmote and Humanoid.WalkSpeed or 0.75
+	if speed > speedThreshold then
+        
+		local scale = 16.0
+		playAnimation("walk", 0.2, Humanoid)
+		setAnimationSpeed(speed / scale)
+		pose = "Running"
+	else
+		if emoteNames[currentAnim] == nil and not currentlyPlayingEmote then
+			playAnimation("idle", 0.2, Humanoid)
+			pose = "Standing"
+		end
+	end
+end
+
+function onDied()
+	pose = "Dead"
+end
+
+function onJumping()
+	playAnimation("jump", 0.1, Humanoid)
+	jumpAnimTime = jumpAnimDuration
+	pose = "Jumping"
+end
+
+function onClimbing(speed)
+	local scale = 5.0
+	playAnimation("climb", 0.1, Humanoid)
+	setAnimationSpeed(speed / scale)
+	pose = "Climbing"
+end
+
+function onGettingUp()
+	pose = "GettingUp"
+end
+
+function onFreeFall()
+	if (jumpAnimTime <= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	end
+	pose = "FreeFall"
+end
+
+function onFallingDown()
+	pose = "FallingDown"
+end
+
+function onSeated()
+	pose = "Seated"
+end
+
+function onPlatformStanding()
+	pose = "PlatformStanding"
+end
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+function onSwimming(speed)
+	if speed > 1.00 then
+		local scale = 10.0
+		playAnimation("swim", 0.4, Humanoid)
+		setAnimationSpeed(speed / scale)
+		pose = "Swimming"
+	else
+		playAnimation("swimidle", 0.4, Humanoid)
+		pose = "Standing"
+	end
+end
+
+function animateTool()
+	if (toolAnim == "None") then
+		playToolAnimation("toolnone", toolTransitionTime, Humanoid, Enum.AnimationPriority.Idle)
+		return
+	end
+
+	if (toolAnim == "Slash") then
+		playToolAnimation("toolslash", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+
+	if (toolAnim == "Lunge") then
+		playToolAnimation("toollunge", 0, Humanoid, Enum.AnimationPriority.Action)
+		return
+	end
+end
+
+function getToolAnim(tool)
+	for _, c in ipairs(tool:GetChildren()) do
+		if c.Name == "toolanim" and c.className == "StringValue" then
+			return c
+		end
+	end
+	return nil
+end
+
+local lastTick = 0
+
+function stepAnimate(currentTime)
+	local amplitude = 1
+	local frequency = 1
+  	local deltaTime = currentTime - lastTick
+  	lastTick = currentTime
+
+	local climbFudge = 0
+	local setAngles = false
+
+  	if (jumpAnimTime > 0) then
+  		jumpAnimTime = jumpAnimTime - deltaTime
+  	end
+
+	if (pose == "FreeFall" and jumpAnimTime <= 0) then
+		playAnimation("fall", fallTransitionTime, Humanoid)
+	elseif (pose == "Seated") then
+		playAnimation("sit", 0.5, Humanoid)
+		return
+	elseif (pose == "Running") then
+        
+		playAnimation("walk", 0.2, Humanoid)
+	elseif (pose == "Dead" or pose == "GettingUp" or pose == "FallingDown" or pose == "Seated" or pose == "PlatformStanding") then
+		stopAllAnimations()
+		amplitude = 0.1
+		frequency = 1
+		setAngles = true
+	end
+
+	-- Tool Animation handling
+	local tool = Character:FindFirstChildOfClass("Tool")
+	if tool and tool:FindFirstChild("Handle") then
+		local animStringValueObject = getToolAnim(tool)
+
+		if animStringValueObject then
+			toolAnim = animStringValueObject.Value
+			-- message recieved, delete StringValue
+			animStringValueObject.Parent = nil
+			toolAnimTime = currentTime + .3
+		end
+
+		if currentTime > toolAnimTime then
+			toolAnimTime = 0
+			toolAnim = "None"
+		end
+
+		animateTool()		
+	else
+		stopToolAnimations()
+		toolAnim = "None"
+		toolAnimInstance = nil
+		toolAnimTime = 0
+	end
+end
+
+-- connect events
+Humanoid.Died:connect(onDied)
+Humanoid.Running:connect(onRunning)
+Humanoid.Jumping:connect(onJumping)
+Humanoid.Climbing:connect(onClimbing)
+Humanoid.GettingUp:connect(onGettingUp)
+Humanoid.FreeFalling:connect(onFreeFall)
+Humanoid.FallingDown:connect(onFallingDown)
+Humanoid.Seated:connect(onSeated)
+Humanoid.PlatformStanding:connect(onPlatformStanding)
+Humanoid.Swimming:connect(onSwimming)
+
+-- setup emote chat hook
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+	local emote = ""
+	if (string.sub(msg, 1, 3) == "/e ") then
+		emote = string.sub(msg, 4)
+	elseif (string.sub(msg, 1, 7) == "/emote ") then
+		emote = string.sub(msg, 8)
+	end
+	
+	if (pose == "Standing" and emoteNames[emote] ~= nil) then
+		playAnimation(emote, EMOTE_TRANSITION_TIME, Humanoid)
+	end
+end)
+
+-- emote bindable hook
+script:WaitForChild("PlayEmote").OnInvoke = function(emote)
+	-- Only play emotes when idling
+	if pose ~= "Standing" then
+		return
+	end
+
+	if emoteNames[emote] ~= nil then
+		-- Default emotes
+		playAnimation(emote, EMOTE_TRANSITION_TIME, Humanoid)
+		
+		if userPlayEmoteByIdAnimTrackReturn then
+			return true, currentAnimTrack
+		else
+			return true
+		end
+	elseif typeof(emote) == "Instance" and emote:IsA("Animation") then
+		-- Non-default emotes
+		playEmote(emote, EMOTE_TRANSITION_TIME, Humanoid)
+
+		if userPlayEmoteByIdAnimTrackReturn then
+			return true, currentAnimTrack
+		else
+			return true
+		end
+	end
+	
+	-- Return false to indicate that the emote could not be played
+	return false
+end
+
+if Character.Parent ~= nil then
+	-- initialize to idle
+	playAnimation("idle", 0.1, Humanoid)
+	pose = "Standing"
+end
+
+-- loop to handle timed state transitions and tool animations
+while Character.Parent ~= nil do
+	local _, currentGameTime = wait(0.1)
+	stepAnimate(currentGameTime)
+end
+
+]]></ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">763e403e57068fda01c1185100100271</UniqueId>
+					</Properties>
+				</Item>
+			</Item>
 		</Item>
 	</Item>
 	<Item class="StarterPack" referent="RBXF2DD584FADF945DE87A3D37264CCDE5E">
@@ -6654,6 +8281,10 @@ function Entity:GetAnimator()
     return self.animator
 end
 
+function Entity:GetModel()
+    return self.model
+end
+
 function Entity:GetHumanoidRootPart()
     return self.humanoidRootPart
 end
@@ -6790,6 +8421,9 @@ function Action:PlayAnimation( animationID, durationInSeconds)
     end
 
     local animationTrack = self.animations[animationID]
+    
+    animationTrack.Priority = Enum.AnimationPriority.Action
+
     local originalSpeed = GetAnimationLength(animationID)
     print(originalSpeed)
     local newSpeed = originalSpeed / durationInSeconds 
@@ -6822,6 +8456,14 @@ function Action:setAnimationFromID(animationID)
     self.animations[animationID] = animationTrack
     print("Finished Setting")
 
+end
+
+function Action:StopPlayerAnimations()
+    
+end
+
+function Action:StartPlayerAnimations()
+    
 end
 
 function Action:CreateAttachment(name)
@@ -6877,14 +8519,7 @@ function Action:createLinearVelocity(name)
 
     return newlinearVelocity
 end
-
-
---[[
-    move the character a specified distance over a specific frames
-    displacement = vector3
-    time = seconds
-]]
-
+--[[ creates a part for debugging purposes]]
 local function createPart(CFrame)
     local newPart = Instance.new("Part")
     newPart.CFrame = CFrame
@@ -6893,6 +8528,13 @@ local function createPart(CFrame)
     newPart.Anchored = true
     newPart.Parent = workspace
 end
+
+--[[
+    move the character a specified distance over a specific frames
+    displacement = vector3
+    time = seconds
+]]
+
 --[[
 function Action:DisplaceModel(displacement, time)
     print("Displacing")
@@ -6941,6 +8583,35 @@ end
 ]]--
 
 
+
+function Action:DisplaceModel(displacement, time)
+    local humanoidRootPart = self:GetHumanoidRootPart()
+    local HumanoidRootPartAttachment = self:CreateAttachment("HumanoidRootPartAttachment")
+    local newlinearVelocity = self:createLinearVelocity("displacementVelocity")
+    local humanoid = self:GetHumanoid()
+
+    newlinearVelocity.MaxForce = math.huge
+    newlinearVelocity.RelativeTo = Enum.ActuatorRelativeTo.Attachment0
+    newlinearVelocity.VelocityConstraintMode =Enum.VelocityConstraintMode.Vector
+    newlinearVelocity.VectorVelocity = displacement / time
+    newlinearVelocity.Attachment0 = HumanoidRootPartAttachment
+
+
+
+    humanoid:ChangeState(Enum.HumanoidStateType.Physics)
+    HumanoidRootPartAttachment.Parent = humanoidRootPart
+    newlinearVelocity.Parent = humanoidRootPart
+
+    task.wait(time)
+
+    humanoid:ChangeState(Enum.HumanoidStateType.Running)
+    newlinearVelocity.Parent = nil
+
+end
+
+
+
+
 return Action]]></ProtectedString>
 						<int64 name="SourceAssetId">-1</int64>
 						<BinaryString name="Tags"></BinaryString>
@@ -6973,13 +8644,14 @@ function MovementActions:RollForwards(durationInSeconds)
     local initialWalkspeed = humanoid.WalkSpeed
      
     self.IsPlayingAnimation = true
-
     
     humanoid.WalkSpeed = 0
     
     local movementCoroutine = coroutine.create(self.DisplaceModel)
-    coroutine.resume(movementCoroutine, self, Vector3.new(0,0,-50), 1)
-    ---self:PlayAnimation(8185993105, durationInSeconds)
+    coroutine.resume(movementCoroutine, self, Vector3.new(0,0,-25), 1)
+
+    self:PlayAnimation(8185993105, durationInSeconds)
+    
     humanoid.WalkSpeed = initialWalkspeed
 
     self.IsPlayingAnimation = false
@@ -7040,6 +8712,15 @@ return MovementActions]]></ProtectedString>
 			<UniqueId name="UniqueId">57fe71edb339c0e801be91b80001a4f4</UniqueId>
 		</Properties>
 	</Item>
+	<Item class="LanguageService" referent="RBXD9D734C13B1942FEB2ED8A56F6DD233C">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">LanguageService</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<UniqueId name="UniqueId">57fe71edb339c0e801be91b80001a55a</UniqueId>
+		</Properties>
+	</Item>
 	<Item class="Lighting" referent="0">
 		<Properties>
 			<Color3 name="Ambient">
@@ -7093,15 +8774,6 @@ return MovementActions]]></ProtectedString>
 			<int64 name="SourceAssetId">-1</int64>
 			<BinaryString name="Tags"></BinaryString>
 			<UniqueId name="UniqueId">57fe71edb339c0e801be91b80001a51a</UniqueId>
-		</Properties>
-	</Item>
-	<Item class="LanguageService" referent="RBXD9D734C13B1942FEB2ED8A56F6DD233C">
-		<Properties>
-			<BinaryString name="AttributesSerialize"></BinaryString>
-			<string name="Name">LanguageService</string>
-			<int64 name="SourceAssetId">-1</int64>
-			<BinaryString name="Tags"></BinaryString>
-			<UniqueId name="UniqueId">57fe71edb339c0e801be91b80001a55a</UniqueId>
 		</Properties>
 	</Item>
 	<Item class="HttpService" referent="RBX0C69798FC4FC49CCB3B0B76B89F813E4">

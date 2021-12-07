@@ -62,6 +62,9 @@ function Action:PlayAnimation( animationID, durationInSeconds)
     end
 
     local animationTrack = self.animations[animationID]
+    
+    animationTrack.Priority = Enum.AnimationPriority.Action
+
     local originalSpeed = GetAnimationLength(animationID)
     print(originalSpeed)
     local newSpeed = originalSpeed / durationInSeconds 
@@ -94,6 +97,14 @@ function Action:setAnimationFromID(animationID)
     self.animations[animationID] = animationTrack
     print("Finished Setting")
 
+end
+
+function Action:StopPlayerAnimations()
+    
+end
+
+function Action:StartPlayerAnimations()
+    
 end
 
 function Action:CreateAttachment(name)
@@ -149,14 +160,7 @@ function Action:createLinearVelocity(name)
 
     return newlinearVelocity
 end
-
-
---[[
-    move the character a specified distance over a specific frames
-    displacement = vector3
-    time = seconds
-]]
-
+--[[ creates a part for debugging purposes]]
 local function createPart(CFrame)
     local newPart = Instance.new("Part")
     newPart.CFrame = CFrame
@@ -165,6 +169,13 @@ local function createPart(CFrame)
     newPart.Anchored = true
     newPart.Parent = workspace
 end
+
+--[[
+    move the character a specified distance over a specific frames
+    displacement = vector3
+    time = seconds
+]]
+
 --[[
 function Action:DisplaceModel(displacement, time)
     print("Displacing")
@@ -211,6 +222,35 @@ function Action:DisplaceModel(displacement, time)
     return
 end
 ]]--
+
+
+
+function Action:DisplaceModel(displacement, time)
+    local humanoidRootPart = self:GetHumanoidRootPart()
+    local HumanoidRootPartAttachment = self:CreateAttachment("HumanoidRootPartAttachment")
+    local newlinearVelocity = self:createLinearVelocity("displacementVelocity")
+    local humanoid = self:GetHumanoid()
+
+    newlinearVelocity.MaxForce = math.huge
+    newlinearVelocity.RelativeTo = Enum.ActuatorRelativeTo.Attachment0
+    newlinearVelocity.VelocityConstraintMode =Enum.VelocityConstraintMode.Vector
+    newlinearVelocity.VectorVelocity = displacement / time
+    newlinearVelocity.Attachment0 = HumanoidRootPartAttachment
+
+
+    humanoid:ChangeState(Enum.HumanoidStateType.PlatformStanding)
+
+    HumanoidRootPartAttachment.Parent = humanoidRootPart
+    newlinearVelocity.Parent = humanoidRootPart
+
+    task.wait(time)
+
+    humanoid:ChangeState(Enum.HumanoidStateType.Running)
+    newlinearVelocity.Parent = nil
+
+end
+
+
 
 
 return Action
