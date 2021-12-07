@@ -74,27 +74,27 @@
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<CoordinateFrame name="CFrame">
-					<X>5.39849234</X>
-					<Y>6.0165081</Y>
-					<Z>2.80113983</Z>
-					<R00>0.704618752</R00>
-					<R01>-0.345465243</R01>
-					<R02>0.619811475</R02>
-					<R10>2.98023188e-08</R10>
-					<R11>0.873483062</R11>
-					<R12>0.486854553</R12>
-					<R20>-0.709586084</R20>
-					<R21>-0.343046814</R21>
-					<R22>0.615472555</R22>
+					<X>4.49622059</X>
+					<Y>16.2197285</Y>
+					<Z>9.91414547</Z>
+					<R00>0.998807192</R00>
+					<R01>0.0409665294</R01>
+					<R02>-0.0265693702</R02>
+					<R10>-1.86264515e-09</R10>
+					<R11>0.544140518</R11>
+					<R12>0.838994145</R12>
+					<R20>0.0488281474</R20>
+					<R21>-0.837993383</R21>
+					<R22>0.543491423</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
 				<float name="FieldOfView">70</float>
 				<token name="FieldOfViewMode">0</token>
 				<CoordinateFrame name="Focus">
-					<X>4.15886879</X>
-					<Y>5.04279852</Y>
-					<Z>1.57019413</Z>
+					<X>4.54935932</X>
+					<Y>14.5417404</Y>
+					<Z>8.82716274</Z>
 					<R00>1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
@@ -5681,6 +5681,100 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				</Item>
 			</Item>
 		</Item>
+		<Item class="Part" referent="RBXDFB88112F323403594C04B03BF7C54DE">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>5.69999695</X>
+					<Y>0.5</Y>
+					<Z>3.59999084</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="Name">Part</string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<UniqueId name="UniqueId">29ed7fa577059ed901befec800744d78</UniqueId>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<token name="formFactorRaw">1</token>
+				<token name="shape">1</token>
+				<Vector3 name="size">
+					<X>50</X>
+					<Y>1</Y>
+					<Z>1</Z>
+				</Vector3>
+			</Properties>
+		</Item>
 	</Item>
 	<Item class="SoundService" referent="9">
 		<Properties>
@@ -6200,10 +6294,11 @@ local playerInput = ReplicatedStorage:WaitForChild("RemoteEvents").Controls.play
 --- runs functions on player input
 local function onPlayerInput(player, inputState, inputObject)
     local entity = PlayerEntityData:GetPlayerEntity(player)
-    if inputObject == "Enum.UserInputType.MouseButton2" then
+    if inputObject == "Enum.UserInputType.MouseButton2" and inputState == "Enum.UserInputState.Begin" then
         entity:StopPlayerMovementInput()
         entity:RollForwards()
         entity:StartPlayerMovementInput()
+        
     end
 end
 
@@ -6232,7 +6327,7 @@ local PlayerEntityData = require(ServerStorage.Common.Data.PlayerEntityData)
 local Entity = require(ReplicatedStorage.Common.EntityClass.Entity)
 local PlayerEntity = require(ReplicatedStorage.Common.EntityClass.PlayerEntity)
 
-local MovementActionsPath = ReplicatedStorage.Common.Actions.MovementActions
+local MovementActionsPath = ReplicatedStorage.Common.ActionClass.MovementActions
 
 
 
@@ -6495,7 +6590,9 @@ return Weapon
 						<Content name="LinkedSource"><null></null></Content>
 						<string name="Name">Entity</string>
 						<string name="ScriptGuid">{F3620AEE-ACFC-4883-A45F-3903CE077B8D}</string>
-						<ProtectedString name="Source"><![CDATA[local Entity = {}
+						<ProtectedString name="Source"><![CDATA[local KeyframeSequenceProvider = game:GetService("KeyframeSequenceProvider")
+
+local Entity = {}
 Entity.__index = Entity
 
 function Entity.new(model)
@@ -6506,95 +6603,46 @@ function Entity.new(model)
     newEntity.humanoidRootPart = model:WaitForChild("HumanoidRootPart")
     newEntity.animations = {}
     newEntity.IsPlayingAnimation = false
+    --[[newEntity.humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll,false)
+    newEntity.humanoid:SetStateEnabled(Enum.HumanoidStateType.Freefall,false)]]--
+
     setmetatable(newEntity, Entity)
 
     return newEntity
 end
-
-
 
 --[[
     LoadActions from a library of actions
 ]]
 
 function Entity:LoadActions(path)
-    local ActionsToLoad = require(path)
-    print(ActionsToLoad)
+    local ActionsToLoad = require(path) -- gets the methods in the path
     local methodsToAddTo = getmetatable(self)
     
     for i, v in pairs(ActionsToLoad) do
         if methodsToAddTo[i] == nil then
             methodsToAddTo[i] = v
+        elseif  i == "__index" then
+            continue
         else
-            print("overlap")
+            print("overlap " .. i)
             return
         end
     end
+    ActionsToLoad = getmetatable(require(path))
+    
+    for i, v in pairs(ActionsToLoad) do -- gets the methods of the metatable of path
+        if methodsToAddTo[i] == nil then
+            methodsToAddTo[i] = v
+        elseif  i == "__index" then
+            continue
+        else
+            print("overlap " .. i)
+            return
+        end
+    end
+
     setmetatable(self, methodsToAddTo)
-
-end
-
---[[
-
-    Plays an animation on a character while offsetting it in a certain direction
-    entity for a certain time
-    @param 
-    animation = ID
-    offset = CFrame relative to the entity
-    durationInTicks = durationInTicks
-    Animation needs to be set first
-]]
-
-
-function Entity:PlayAnimation( animationID, offset, durationInSeconds) 
-    if self:GetIsPlayingAnimation() == true then
-        return
-    end
-    self.IsPlayingAnimation = true
-
-    if not self.animations[animationID] then
-        self:setAnimationFromID(animationID)
-        task.wait()
-    end
-    local animator = self:GetAnimator()
-    local animationTrack = self.animations[animationID]
-    local originalSpeed = animationTrack.Length
-    print(originalSpeed)
-    local newSpeed = originalSpeed / durationInSeconds 
-    
-    for _, track in pairs(animator:GetPlayingAnimationTracks()) do
-		track:Stop(0)
-	end
-    
-    animationTrack:Play(0.1, 1, newSpeed) -- first two are default parameters
-    animationTrack.DidLoop:Wait()
-    
-    animationTrack:Stop()
-    self.IsPlayingAnimation = false
-    animationTrack:AdjustSpeed(originalSpeed)
-    
-    animationTrack.TimePosition = 0
-    return
-end
-
---[[
-    Set's an animation to be loaded later
-
-    animation = ID
-]]
-function Entity:setAnimationFromID(animationID)
-    --local humanoid = self:GetHumanoid()
-    local animator = self:GetAnimator()
-
-    local newAnimation = Instance.new("Animation")
-    newAnimation.AnimationId = "rbxassetid://" .. animationID
-    
-    local animationTrack = animator:LoadAnimation(newAnimation)
-    animationTrack.Looped = true
-    animationTrack.Priority = Enum.AnimationPriority.Action
-
-    self.animations[animationID] = animationTrack
-    print("Finished Setting")
 
 end
 
@@ -6656,7 +6704,6 @@ function PlayerEntity:StartPlayerMovementInput()
     self.player.DevComputerMovementMode = Enum.DevComputerMovementMode.UserChoice
 end
 
-
 return PlayerEntity
 ]]></ProtectedString>
 						<int64 name="SourceAssetId">-1</int64>
@@ -6665,37 +6712,284 @@ return PlayerEntity
 					</Properties>
 				</Item>
 			</Item>
-			<Item class="Folder" referent="RBX13873BA54521495E9F7560E55F9C2448">
+			<Item class="Folder" referent="RBX377FB5DEFC1D4939B3C5E722EAD06445">
 				<Properties>
 					<BinaryString name="AttributesSerialize"></BinaryString>
-					<string name="Name">Actions</string>
+					<string name="Name">ActionClass</string>
 					<int64 name="SourceAssetId">-1</int64>
 					<BinaryString name="Tags"></BinaryString>
-					<UniqueId name="UniqueId">57fe71edb339c0e801be91b80029a28c</UniqueId>
+					<UniqueId name="UniqueId">29ed7fa577059ed901befec8001a77e1</UniqueId>
 				</Properties>
-				<Item class="ModuleScript" referent="RBX116CF88DDA704FCB87CCCEE3D7443AC5">
+				<Item class="ModuleScript" referent="RBX1D532180CB654CADBE9E98E16636F8B5">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<Content name="LinkedSource"><null></null></Content>
+						<string name="Name">Action</string>
+						<string name="ScriptGuid">{334780D6-4D9E-4EC3-B252-6AA6CF515E55}</string>
+						<ProtectedString name="Source"><![CDATA[local KeyframeSequenceProvider = game:GetService("KeyframeSequenceProvider")
+local RunService = game:GetService("RunService")
+
+local Action = {}
+Action.__index = Action
+
+
+--[[ Gets an animation length bc Roblox's built in animation length sucks\
+Animation
+]]
+local AnimationLengthCache = {}
+local function GetAnimationLength(AnimationId)
+	if AnimationLengthCache[AnimationId] then
+		return AnimationLengthCache[AnimationId]
+	end
+    local keyframes = {}
+    local length = 0
+    local keyframeTable
+	local success = pcall(function()
+        keyframes = KeyframeSequenceProvider:GetKeyframeSequenceAsync("rbxassetid://" .. AnimationId)
+    end)
+    if success then
+        keyframeTable = keyframes:GetKeyframes() 
+    else
+        error("Failed to receive keyframes", 2)
+    end
+
+    for i, v in pairs(keyframeTable) do
+        if v.Time > length then 
+			length = v.Time 
+		end
+    end
+    
+	AnimationLengthCache[AnimationId] = length
+	
+	return length
+end
+--[[
+
+    Plays an animation on a character while offsetting it in a certain direction
+    entity for a certain time
+    Check if 
+    @param 
+    animation = ID
+    durationInTicks = durationInTicks
+    Animation needs to be set first
+]]
+
+
+function Action:PlayAnimation( animationID, durationInSeconds) 
+    
+    print("Animation Started")
+
+    if not self.animations[animationID] then
+        self:setAnimationFromID(animationID)
+        task.wait()
+    end
+    local animator = self:GetAnimator()
+
+    for i, v in pairs(animator:GetPlayingAnimationTracks()) do
+        v:Stop()
+    end
+
+    local animationTrack = self.animations[animationID]
+    local originalSpeed = GetAnimationLength(animationID)
+    print(originalSpeed)
+    local newSpeed = originalSpeed / durationInSeconds 
+    
+    animationTrack:Play(0.1, 1, newSpeed) -- first two are default parameters
+    animationTrack.DidLoop:Wait()
+    
+    animationTrack:Stop()
+    
+    animationTrack.TimePosition = 0
+    return
+end
+
+--[[
+    Set's an animation to be loaded later
+
+    animation = ID
+]]
+function Action:setAnimationFromID(animationID)
+    --local humanoid = self:GetHumanoid()
+    local animator = self:GetAnimator()
+
+    local newAnimation = Instance.new("Animation")
+    newAnimation.AnimationId = "rbxassetid://" .. animationID
+    local catcher = GetAnimationLength(animationID)
+    local animationTrack = animator:LoadAnimation(newAnimation)
+    animationTrack.Looped = true
+    animationTrack.Priority = Enum.AnimationPriority.Action
+
+    self.animations[animationID] = animationTrack
+    print("Finished Setting")
+
+end
+
+function Action:CreateAttachment(name)
+    
+    if self.attachments == nil then
+        self.attachments = {}
+    end
+    
+    if self.attachments[name] ~= nil then
+        return self.attachments[name]
+    end
+    
+    local newAttachment = Instance.new("Attachment")
+    newAttachment.Name = name
+    self.attachments[name] = newAttachment
+
+    return newAttachment
+end
+
+function Action:createBodyVelocity(name)
+    
+    if self.bodyVelocites == nil then
+        self.bodyVelocities = {}
+    end
+    
+    if self.bodyVelocities[name] ~= nil then
+        return self.bodyVelocities[name]
+    end
+    
+    local newBodyVelocity = Instance.new("BodyVelocity")
+    newBodyVelocity.Name = name
+    self.bodyVelocities[name] = newBodyVelocity
+
+    return newBodyVelocity
+end
+
+function Action:createLinearVelocity(name)
+    print("creating " .. name)
+    if self.linearVelocities == nil then
+        print("created empty table")
+        self.linearVelocities = {}
+    end
+    
+    if self.linearVelocities[name] ~= nil then
+        print("returned existing")
+        return self.linearVelocities[name]
+    end
+    
+    print("creating new linear")
+    local newlinearVelocity = Instance.new("LinearVelocity")
+    newlinearVelocity.Name = name
+    self.linearVelocities[name] = newlinearVelocity
+
+    return newlinearVelocity
+end
+
+
+--[[
+    move the character a specified distance over a specific frames
+    displacement = vector3
+    time = seconds
+]]
+
+local function createPart(CFrame)
+    local newPart = Instance.new("Part")
+    newPart.CFrame = CFrame
+    newPart.Size = Vector3.new(0.5,0.5,0.5)
+    newPart.CanCollide = false
+    newPart.Anchored = true
+    newPart.Parent = workspace
+end
+--[[
+function Action:DisplaceModel(displacement, time)
+    print("Displacing")
+    local humanoidRootPart = self:GetHumanoidRootPart()
+    local HumanoidRootPartAttachment = self:CreateAttachment("HumanoidRootPartAttachment")
+    local DisplacementAttachment = self:CreateAttachment("DisplacementAttachment")
+    local newAlignPosition = Instance.new("AlignPosition")
+    print(self:createLinearVelocity("antigravityVelocity"))
+    local antigravityVelocity = self:createLinearVelocity("antigravityVelocity")
+
+    print("antigravity velocity")
+    antigravityVelocity.MaxForce = math.huge
+    antigravityVelocity.VelocityConstraintMode = Enum.VelocityConstraintMode.Line
+    antigravityVelocity.LineDirection = Vector3.new(0,1,0)
+    antigravityVelocity.RelativeTo =Enum.ActuatorRelativeTo.World
+    antigravityVelocity.LineVelocity = 0
+    antigravityVelocity.Attachment0 = HumanoidRootPartAttachment
+
+    HumanoidRootPartAttachment.Parent = humanoidRootPart
+    DisplacementAttachment.Parent = workspace.Baseplate
+
+    DisplacementAttachment.CFrame = HumanoidRootPartAttachment.WorldCFrame:ToWorldSpace(CFrame.new(displacement))
+
+    createPart(humanoidRootPart.CFrame) --- dummy cframe
+    createPart(DisplacementAttachment.CFrame)
+
+    newAlignPosition.ApplyAtCenterOfMass = true
+    newAlignPosition.RigidityEnabled = false
+    newAlignPosition.Responsiveness = 20
+    newAlignPosition.MaxForce = math.huge
+    newAlignPosition.MaxVelocity = displacement.Magnitude / time
+    newAlignPosition.Attachment0 = HumanoidRootPartAttachment
+    newAlignPosition.Attachment1 = DisplacementAttachment
+    newAlignPosition.Enabled = true
+
+    antigravityVelocity.Parent = humanoidRootPart
+    newAlignPosition.Parent = humanoidRootPart
+
+
+    task.wait(time)
+
+    antigravityVelocity.Parent = nil
+    newAlignPosition:Destroy()
+    return
+end
+]]--
+
+
+return Action]]></ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<UniqueId name="UniqueId">29ed7fa577059ed901befec8001a77e2</UniqueId>
+					</Properties>
+				</Item>
+				<Item class="ModuleScript" referent="RBX139AF6DF4D704E99AC6395A442D5F723">
 					<Properties>
 						<BinaryString name="AttributesSerialize"></BinaryString>
 						<Content name="LinkedSource"><null></null></Content>
 						<string name="Name">MovementActions</string>
-						<string name="ScriptGuid">{EFBACD7F-5193-494F-98F8-C6743DCB1207}</string>
+						<string name="ScriptGuid">{FC7DA33E-BEB8-4BB7-908E-64E38473D676}</string>
 						<ProtectedString name="Source"><![CDATA[local ServerStorage = game:GetService("ServerStorage")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local Entity = require(ReplicatedStorage.Common.EntityClass.Entity)
+local Actions = require(ReplicatedStorage.Common.ActionClass.Action)
 
 local MovementActions = {}
+setmetatable(MovementActions, Actions)
 
 --[[CFrame is an offset]]
-function MovementActions:RollForwards(offset, durationInTicks)
-    local durationInTicks = 10
-    self:PlayAnimation(8185993105, offset, durationInTicks)
+function MovementActions:RollForwards(durationInSeconds)
+    
+    if self:GetIsPlayingAnimation() == true then
+        return
+    end 
+
+    
+    local durationInSeconds = durationInSeconds or 1
+    local humanoid = self:GetHumanoid()
+    local initialWalkspeed = humanoid.WalkSpeed
+     
+    self.IsPlayingAnimation = true
+
+    
+    humanoid.WalkSpeed = 0
+    
+    local movementCoroutine = coroutine.create(self.DisplaceModel)
+    coroutine.resume(movementCoroutine, self, Vector3.new(0,0,-50), 1)
+    ---self:PlayAnimation(8185993105, durationInSeconds)
+    humanoid.WalkSpeed = initialWalkspeed
+
+    self.IsPlayingAnimation = false
 end
 
 
 return MovementActions]]></ProtectedString>
 						<int64 name="SourceAssetId">-1</int64>
 						<BinaryString name="Tags"></BinaryString>
-						<UniqueId name="UniqueId">57fe71edb339c0e801be91b80029a28d</UniqueId>
+						<UniqueId name="UniqueId">29ed7fa577059ed901befec8001a77e3</UniqueId>
 					</Properties>
 				</Item>
 			</Item>

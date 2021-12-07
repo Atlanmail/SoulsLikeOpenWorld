@@ -10,10 +10,11 @@ local playerInput = ReplicatedStorage:WaitForChild("RemoteEvents").Controls.play
 --- runs functions on player input
 local function onPlayerInput(player, inputState, inputObject)
     local entity = PlayerEntityData:GetPlayerEntity(player)
-    if inputObject == "Enum.UserInputType.MouseButton2" then
+    if inputObject == "Enum.UserInputType.MouseButton2" and inputState == "Enum.UserInputState.Begin" then
         entity:StopPlayerMovementInput()
         entity:RollForwards()
         entity:StartPlayerMovementInput()
+        
     end
 end
 

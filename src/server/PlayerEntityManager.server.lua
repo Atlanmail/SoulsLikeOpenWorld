@@ -9,7 +9,7 @@ local PlayerEntityData = require(ServerStorage.Common.Data.PlayerEntityData)
 local Entity = require(ReplicatedStorage.Common.EntityClass.Entity)
 local PlayerEntity = require(ReplicatedStorage.Common.EntityClass.PlayerEntity)
 
-local MovementActionsPath = ReplicatedStorage.Common.Actions.MovementActions
+local MovementActionsPath = ReplicatedStorage.Common.ActionClass.MovementActions
 
 
 
