@@ -18,13 +18,15 @@ function MovementActions:RollForwards(durationInSeconds)
     local initialWalkspeed = humanoid.WalkSpeed
      
     self.IsPlayingAnimation = true
-
     
     humanoid.WalkSpeed = 0
     
+
     local movementCoroutine = coroutine.create(self.DisplaceModel)
-    coroutine.resume(movementCoroutine, self, Vector3.new(0,0,-50), 1)
-    ---self:PlayAnimation(8185993105, durationInSeconds)
+    coroutine.resume(movementCoroutine, self, Vector3.new(0,0,-25), 1)
+
+    self:PlayAnimation(8185993105, durationInSeconds)
+    
     humanoid.WalkSpeed = initialWalkspeed
 
     self.IsPlayingAnimation = false
